@@ -45,7 +45,7 @@ cd asana-seed-data
 pip install -r requirements. txt
 
 # 3. (Optional) Set up OpenAI API key for enhanced content generation
-cp .env.example .env
+cp .env
 # Edit .env and add:  OPENAI_API_KEY=sk-your-key-here
 ```
 
